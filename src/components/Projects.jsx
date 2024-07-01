@@ -1,4 +1,4 @@
-import { PROJECTS } from "../data_assets/constants"
+import { PROJECTS } from "../assets/constants"
 import { motion } from "framer-motion";
 
 

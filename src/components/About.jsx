@@ -1,5 +1,5 @@
-import aboutImg from "../data_assets/assets/about.jpg"
-import { ABOUT_TEXT } from "../data_assets/constants"
+import aboutImg from "../assets/assets/about.jpg"
+import { ABOUT_TEXT } from "../assets/constants"
 import { motion } from "framer-motion"
 
 

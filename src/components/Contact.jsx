@@ -1,4 +1,4 @@
-import { CONTACT } from "../data_assets/constants/index"
+import { CONTACT } from "../assets/constants/index"
 import { motion } from "framer-motion";
 
 const Contact = () => {
